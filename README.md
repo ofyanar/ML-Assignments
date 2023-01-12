@@ -25,3 +25,13 @@ the training and test coefficient of determination is found for the Lasso model 
 they are then preprocessed using StandardScaler function while avoiding data snooping.
 
 finally we implement an inductive conformal predictor, and found prediction interval for each test sample for significance levels 5% and 20%.
+
+--------------------------------------Assignment 3--------------------------------------
+
+ the last machine learning assignment
+
+there are two datasets used in this assignment, the wine dataset which is buil into the scikit-learn module, and the USPS dataset of handwritten digits. (the training and test data can be found at the bottom ogf the page) https://hastie.su.domains/ElemStatLearn/
+
+we estimate the generalisation-accuracy of the support vector machine (SVM) using cross validation on the training sets.
+
+Additionally the error rate of the SVM is found using the default values of parameters of the SVM.
